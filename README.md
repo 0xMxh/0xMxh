@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**0xMxh/0xMxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game & Backend Systems Developer  
+Infrastructure Engineer (Game / Blockchain)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,rust,go,solidity,lua)
+
+---
+
+## Databases & Storage
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,redis)
+
+---
+
+## Tools & Infrastructure
+![Tools](https://skillicons.dev/icons?i=kubernetes,docker,bash,powershell)
